@@ -12,7 +12,6 @@ int main()
   if(fp==NULL)
   {
     printf("\n the file could not be opened");
-
   }
   printf("\n enter the name and Roll number\t");
   scanf("%s",&name);
